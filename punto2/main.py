@@ -8,7 +8,7 @@ def read_file():
 
 def find_words():
     """expressions of questions"""
-    pattern = r'[¿][^¿?]*[?]'
+    pattern = r'\¿[^\n\¡\!]+\?|[^\n\¿\¡\!]+\?'
     matches = re.findall(pattern, content)
 
     words.extend(matches)
@@ -22,7 +22,7 @@ def find_words():
 
 def find_words1():
     """expression of aclamacion"""
-    pattern = r'[¡][^!¡]*[!]'
+    pattern = r'¡[^¡!¿\?]*?!|[^¡!¿\?\n]+!'
     matches = re.findall(pattern, content)
 
     words.extend(matches)

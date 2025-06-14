@@ -52,3 +52,49 @@ Kaspersky Standard - Descarga y prueba gratis
 
 ¡No olvide consultar con un Dr. en ciberseguridad si sospecha que su dispositivo ha sido comprometido!
 Sres. usuarios: la protección digital es una prioridad en el mundo actual.
+The most dangerous types of malware creators are hackers and hacker groups that create malicious software in an effort to achieve their own specific criminal goals. These cybercriminals create computer viruses and trojan programs that can:
+
+Steal access codes for bank accounts, e.g., mobile banking credentials.
+Advertise products or services on a victim's computer.
+Illegally use the resources of an infected computer to develop and carry out:
+spam campaigns
+DDoS attacks
+extortion operations
+What is cybercrime... and what are the risks?
+To get more information about how cybercriminals operate and what the risks are of falling victim to their activities, click on the links below:
+
+Support for spammers
+¡Distributed network attacks/DDoS!
+What is a botnet?
+Premium-rate calls and paid SMS sending
+Electronic currency theft
+Online banking information theft
+Ransomware and cyber blackmail
+Evolution of virus delivery methods
+Targeted computer virus attacks
+How to protect yourself from cybercrime
+Since cybercriminals use many techniques to attack users' computers and data, it becomes essential to use multi-layered defenses. Anti-malware solutions that combine signature-based detection, heuristic analysis, and cloud technologies can be much more helpful in protecting your devices and data from new and sophisticated threats.
+
+Kaspersky Lab is known for its top-level, multi-layered anti-malware products that can protect a wide range of computers and devices from cybercrime, including:
+
+¡Windows PCs!
+Linux computers
+Apple Macs
+Smartphones
+Tablets
+Other articles and links related to cybercrime
+
+Gray market businesses
+Adware, pornware, and riskware
+What is a computer virus or worm?
+What is a trojan?
+Kaspersky Internet Security
+Kaspersky Anti-Virus
+Kaspersky Internet Security for Android
+Kaspersky Premium - Product information
+Download Kaspersky Antivirus Premium and try it free
+Kaspersky Standard - Download and try it free
+
+¡Do not forget to consult a cybersecurity specialist if you suspect your device has been compromised.!
+Dear users: digital protection is a priority in today’s world.
+
