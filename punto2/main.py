@@ -8,6 +8,8 @@ def read_file():
 
 def find_words():
     """expressions of questions"""
+    #USE THE REGEX TON FIND USING THE RE LIBRARY
+    # This pattern matches questions that start with '¿' and end with '?' or those that do not start with '¿' but end with '?'
     pattern = r'\¿[^\n\¡\!]+\?|[^\n\¿\¡\!]+\?'
     matches = re.findall(pattern, content)
 
@@ -22,6 +24,8 @@ def find_words():
 
 def find_words1():
     """expression of aclamacion"""
+    #USE THE REGEX TON FIND USING THE RE LIBRARY
+    # This pattern matches exclamations that start with '¡' and end with '!' or those that do not start with '¡' but end with '!'
     pattern = r'¡[^¡!¿\?]*?!|[^¡!¿\?\n]+!'
     matches = re.findall(pattern, content)
 
@@ -37,6 +41,8 @@ def find_words1():
 
 def find_words2():
     """Communs abrevuatures """
+    #USE THE REGEX TON FIND USING THE RE LIBRARY
+    # This pattern matches common abbreviations that consist of 1 to 4 letters followed by a dot, repeated 1 to 3 times
     pattern = r'\b(?:[a-zA-Z]{1,4}\.){1,3}'
     matches = re.findall(pattern, content)
     words.extend(matches)
